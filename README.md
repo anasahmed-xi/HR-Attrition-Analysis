@@ -34,8 +34,7 @@ HR-Attrition-Analysis/
 │ ├── overall_attrition_rate.csv # Overall attrition summary data
 │
 ├── 📁 sql_queries/
-│ ├── attrition_rate_overall.sql
-│ ├── attrition_by_performance-overtime.sql
+│ ├── Employee Attrition Analysis.sql
 │
 ├── 📁 tableau_dashboard/
 │ ├── HR_Attrition_Dashboard.twbx # Tableau packaged workbook
