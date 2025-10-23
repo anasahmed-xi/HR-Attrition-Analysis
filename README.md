@@ -32,6 +32,9 @@ HR-Attrition-Analysis/
 │ ├── attrition_by_gender.csv # Aggregated attrition data by gender
 │ ├── attrition_by_performance_overtime.csv # Combined analysis of performance & overtime
 │ ├── overall_attrition_rate.csv # Overall attrition summary data
+│ ├── attrition_by_performance_rating.csv # Aggregated attrition data by performance rating
+│ ├── attrition_by_overtime.csv # Aggregated attrition data by overtime
+│ ├── attrition_by_yearsatcompany.csv # Aggregated attrition data by years at company
 │
 ├── 📁 sql_queries/
 │ ├── Employee Attrition Analysis.sql
