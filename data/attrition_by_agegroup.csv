@@ -1,0 +1,6 @@
+AgeGroup,total_employees,attrition_count,attrition_rate
+25-34,328,161,49.09
+35-44,323,149,46.13
+45-54,279,137,49.1
+55+,170,79,46.47
+<25,100,52,52

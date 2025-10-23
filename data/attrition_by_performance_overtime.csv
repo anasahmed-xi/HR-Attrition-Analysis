@@ -1,0 +1,7 @@
+PerformanceRating,OverTime,total_employees,attrition_count,attrition_rate
+2,FALSE,207,93,44.93
+2,TRUE,194,102,52.58
+3,FALSE,205,105,51.22
+3,TRUE,197,96,48.73
+4,FALSE,200,93,46.5
+4,TRUE,197,89,45.18
